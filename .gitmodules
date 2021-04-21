@@ -1,0 +1,15 @@
+[submodule "ConwayGoF"]
+	path = ConwayGoF
+	url = https://github.com/LucioTrincheri/ConwayGoF
+[submodule "TP1EDyAII"]
+	path = TP1EDyAII
+	url = https://github.com/LucioTrincheri/TP1EDyAII
+[submodule "SmallTerminal"]
+	path = SmallTerminal
+	url = https://github.com/LucioTrincheri/SmallTerminal
+[submodule "TPFinalEDyA"]
+	path = TPFinalEDyA
+	url = https://github.com/LucioTrincheri/TPFinalEDyA
+[submodule "PII-TPFinal"]
+	path = PII-TPFinal
+	url = https://github.com/LucioTrincheri/PII-TPFinal
