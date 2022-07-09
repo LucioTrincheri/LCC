@@ -2,7 +2,7 @@
 	path = ConwayGoF
 	url = https://github.com/LucioTrincheri/ConwayGoF
 [submodule "TP1EDyAII"]
-	path = TP1EDyAII
+	path = EDyAII-2021
 	url = https://github.com/LucioTrincheri/TP1EDyAII
 [submodule "SmallTerminal"]
 	path = SmallTerminal
