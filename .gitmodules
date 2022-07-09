@@ -8,7 +8,7 @@
 	path = SmallTerminal
 	url = https://github.com/LucioTrincheri/SmallTerminal
 [submodule "TPFinalEDyA"]
-	path = TPFinalEDyA
+	path = EDyAI-2020
 	url = https://github.com/LucioTrincheri/TPFinalEDyA
 [submodule "PII-TPFinal"]
 	path = PII-TPFinal
