@@ -11,5 +11,5 @@
 	path = EDyAI-2020
 	url = https://github.com/LucioTrincheri/TPFinalEDyA
 [submodule "PII-TPFinal"]
-	path = PII-TPFinal
+	path = PII-2019
 	url = https://github.com/LucioTrincheri/PII-TPFinal
