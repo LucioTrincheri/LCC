@@ -1,11 +1,11 @@
 [submodule "ConwayGoF"]
-	path = ConwayGoF
+	path = SO1-2021-ConwayGoF
 	url = https://github.com/LucioTrincheri/ConwayGoF
 [submodule "TP1EDyAII"]
 	path = EDyAII-2021
 	url = https://github.com/LucioTrincheri/TP1EDyAII
 [submodule "SmallTerminal"]
-	path = SmallTerminal
+	path = SO1-2021-SmallTerminal
 	url = https://github.com/LucioTrincheri/SmallTerminal
 [submodule "TPFinalEDyA"]
 	path = EDyAI-2020
