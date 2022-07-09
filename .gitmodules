@@ -13,3 +13,15 @@
 [submodule "PII-TPFinal"]
 	path = PII-2019
 	url = https://github.com/LucioTrincheri/PII-TPFinal
+[submodule "SO1-2021-atomic-broadcast"]
+	path = SO1-2021-atomic-broadcast
+	url = https://github.com/LucioTrincheri/SO1-2021-atomic-broadcast
+[submodule "ALP-2021"]
+	path = ALP-2021
+	url = https://github.com/LucioTrincheri/ALP-2021
+[submodule "IIA-2022"]
+	path = IIA-2022
+	url = https://github.com/LucioTrincheri/IIA-2022
+[submodule "PyE-2021"]
+	path = PyE-2021
+	url = https://github.com/LucioTrincheri/PyE-2021
