@@ -25,3 +25,6 @@
 [submodule "PyE-2021"]
 	path = PyE-2021
 	url = https://github.com/LucioTrincheri/PyE-2021
+[submodule "NachOS-2022"]
+	path = NachOS-2022
+	url = https://github.com/LucioTrincheri/NachOS-2022
