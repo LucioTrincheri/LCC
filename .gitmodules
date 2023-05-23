@@ -31,3 +31,6 @@
 [submodule "ConsoleChat"]
 	path = ConsoleChat
 	url = https://github.com/LucioTrincheri/ConsoleChat
+[submodule "compiladores2022"]
+	path = compiladores2022
+	url = https://github.com/LucioTrincheri/compiladores2022
