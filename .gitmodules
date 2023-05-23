@@ -28,3 +28,6 @@
 [submodule "NachOS-2022"]
 	path = NachOS-2022
 	url = https://github.com/LucioTrincheri/NachOS-2022
+[submodule "ConsoleChat"]
+	path = ConsoleChat
+	url = https://github.com/LucioTrincheri/ConsoleChat
